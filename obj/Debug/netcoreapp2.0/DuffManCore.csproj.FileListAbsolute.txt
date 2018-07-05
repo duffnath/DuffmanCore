@@ -1,0 +1,11 @@
+C:\Users\duffn\Documents\Projects\DuffManCore\bin\Debug\netcoreapp2.0\DuffManCore.deps.json
+C:\Users\duffn\Documents\Projects\DuffManCore\bin\Debug\netcoreapp2.0\DuffManCore.runtimeconfig.json
+C:\Users\duffn\Documents\Projects\DuffManCore\bin\Debug\netcoreapp2.0\DuffManCore.runtimeconfig.dev.json
+C:\Users\duffn\Documents\Projects\DuffManCore\bin\Debug\netcoreapp2.0\DuffManCore.dll
+C:\Users\duffn\Documents\Projects\DuffManCore\bin\Debug\netcoreapp2.0\DuffManCore.pdb
+C:\Users\duffn\Documents\Projects\DuffManCore\obj\Debug\netcoreapp2.0\DuffManCore.csproj.CoreCompileInputs.cache
+C:\Users\duffn\Documents\Projects\DuffManCore\obj\Debug\netcoreapp2.0\DuffManCore.AssemblyInfoInputs.cache
+C:\Users\duffn\Documents\Projects\DuffManCore\obj\Debug\netcoreapp2.0\DuffManCore.AssemblyInfo.cs
+C:\Users\duffn\Documents\Projects\DuffManCore\obj\Debug\netcoreapp2.0\DuffManCore.dll
+C:\Users\duffn\Documents\Projects\DuffManCore\obj\Debug\netcoreapp2.0\DuffManCore.pdb
+C:\Users\duffn\Documents\Projects\DuffManCore\obj\Debug\netcoreapp2.0\DuffManCore.csprojResolveAssemblyReference.cache

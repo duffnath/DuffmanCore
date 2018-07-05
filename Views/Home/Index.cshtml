@@ -1,0 +1,28 @@
+﻿@model DuffManCore.ViewModels.HomeIndexViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    <h1>@Model.CurrentMessage</h1>
+    <h2>Litter list</h2>
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Father Name</th>
+            <th>Puppy Count</th>
+            <th>View Details</th>
+        </tr>
+        @foreach (var litter in Model.Litters)
+        {
+        <tr>
+            <td>@litter.Id</td>
+            <td>@litter.Name</td>
+            <td>@litter.FatherName</td>
+            <td>@litter.PuppyCount</td>
+            <td><a asp-action="Details" asp-route-id="@litter.Id">Details</a></td>
+        </tr>
+        }
+    </table>
+</div>
